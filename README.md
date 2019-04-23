@@ -99,6 +99,7 @@ Like `awesome-developer-streams`? Reach out to [@bitandbang](https://twitter.com
 - [Lizzie Siegle](#lizzie-siegle) - **streaming:** JavaScript, Swift, Web Development, Node.js, cool libraries and projects 
 - [Luke Gorrie](#luke-gorrie) - **streaming:** C, Lua, RaptorJIT, R, Nix, Network drivers
 - [Marco Bruno](#marco-bruno) - **streaming** Programming, Javascript, Web Development, React, CSS, HTML
+- [Matt Groves](#matt-groves) - **streaming** Programming, C#, .NET, Couchbase, databases, back-end, soldering, VR, podcasting
 - [Mark Kraus](#mark-kraus) - **streaming** PowerShell, C#, Azure Functions, CI/CD Pipelines, OSS
 - [Mark Mandel](#mark-mandel) - **streaming** Game Development, Kubernetes, Go, OSS
 - [Matt Layman](#matt-layman) - **streaming:** Python, Django, Software as a Service (SaaS), Web Development
@@ -946,6 +947,19 @@ Web Development, React, Node.js, CSS, Next.js, Wordpress
 - [GitHub](https://github.com/marcobrunobr)
 - [LinkedIn](https://www.linkedin.com/in/marcobrunobr/)
 - [Blog](https://medium.com/collabcode)
+
+### Matt Groves
+#### What Matt Streams
+- Programming, C#, .NET, Couchbase, databases, back-end, soldering, VR, podcasting
+#### Streaming on:
+- [Twitch](https://www.twitch.tv/matthewdgroves)
+- [YouTube](https://www.youtube.com/user/boohiss3)
+#### Languages Spoken During Stream
+- English
+#### Links:
+- [Twitter](https://twitter.com/mgroves)
+- [GitHub](https://github.com/mgroves)
+- [Blog](https://crosscuttingconcerns.com/)
 
 ### Mark Kraus
 #### What Mark Streams
